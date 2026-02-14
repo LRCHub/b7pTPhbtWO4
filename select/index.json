@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Any",
+  "base_artist": "This is LAST",
+  "createdAt": "2026-02-14T23:12:53.970473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Wouldn't Have It Any Other Way",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/01_I_Wouldn't_Have_It_Any_Other_Way_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/02_Any_Day_Now_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/03_Any_Day_Now_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/04_Any_Day_Now_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Any Man Of Mine",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/05_Any_Man_Of_Mine_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Any Old Wind That Blows",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/06_Any_Old_Wind_That_Blows_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Any Way The Wind Blows",
+      "artist": "Southern Pacific",
+      "has_synced": true,
+      "path": "select/07_Any_Way_The_Wind_Blows_Southern_Pacific.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Can't Love You Any More",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/08_I_Can't_Love_You_Any_More_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Couldn't Have Been Any Better",
+      "artist": "Johnny Duncan",
+      "has_synced": true,
+      "path": "select/09_It_Couldn't_Have_Been_Any_Better_Johnny_Duncan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Doesn't Get Any Countrier Than This",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/10_It_Doesn't_Get_Any_Countrier_Than_This_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Any Colour You Like",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/11_Any_Colour_You_Like_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Any Other World",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/12_Any_Other_World_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Any Love",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/13_Any_Love_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Any Dream Will Do - From \"Joseph\"",
+      "artist": "Jason Donovan",
+      "has_synced": false,
+      "path": "select/14_Any_Dream_Will_Do_-_From__Joseph_Jason_Donovan.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Any Love (2)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/15_Any_Love_(2)_Massive_Attack.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Any",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_Any_This_is_LAST.txt"
+    }
+  ]
+}
